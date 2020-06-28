@@ -1,5 +1,5 @@
-# dijsktra-pathfinder
-This project is an implementation of Dijsktra's Pathfinding algorithm. Some examples of valid inputs can be found in `./testcases`
+# dijkstra-pathfinder
+This project is an implementation of Dijkstra's Pathfinding algorithm. Some examples of valid inputs can be found in `./testcases`
 
 ### Compiling
 To compile this program run the command:
