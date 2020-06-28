@@ -6,7 +6,7 @@ To compile this program run the command:
 ```shell
 g++ dijsktra.cpp
 ```
-This will output `a.exe` on Windows and/or `a.out` on Linux.
+This will output `a.exe` on Windows or on Linux `a.out`
 
 ### Running the Program
 To run the program with input data from a file, use the command:
